@@ -102,7 +102,7 @@
             </td>
         </tr>
     </table>
-    <hr size="2"noshade>
+    <hr size="2" noshade>
     <a href="hobbies.html">My Hobbies</a><br>
     <a href="contact_me.html">My Contact detail</a>
 
