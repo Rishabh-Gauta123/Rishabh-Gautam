@@ -9,7 +9,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="IMG-20220605-WA0145-modified.png" alt="error loading image"></td>
+            <td><img src="IMG-20220605-WA0145-modified.png" alt="error loading image" width="30%"></td>
             <td>   <h1>Rishabh Gautam</h1>
                 <p><em>student of <strong> IIIT Dharwad</strong></em></p>
                 <p>Myself rishabh gautam I'm from uttar pradesh rampur. currently I'm B Tech third year student at the iiit dwd.</p>
