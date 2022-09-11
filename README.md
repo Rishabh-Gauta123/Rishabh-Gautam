@@ -1,5 +1,4 @@
 # Rishabh-Gautam
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +16,7 @@
             </td>
         </tr>
     </table>
-    <!-- <img src="image\IMG-20220605-WA0145-modified.png" alt="error loading image" widtgh="300px" height="200px"> -->
+    <!-- <img src="IMG-20220605-WA0145-modified.png" alt="error loading image" widtgh="300px" height="200px"> -->
     <!-- crop circle image online.com (this website is used to make the photo in to the circle form) -->
     <!-- for inserting the image in to the website give image folder name/image address   -->
     <!-- C:\Users\Rishabh Gautam\OneDrive\Desktop\New folder (2)\html_file\image\IMG-20220605-WA0145-modified.png -->
